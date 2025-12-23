@@ -17,7 +17,7 @@
 
 *   **[Meshokdeneg](https://github.com/meshokdeneg/Apex-Synthesis-Lab/wiki/MeshokDeneg)** - Создатель, основатель, администратор и т.д. это всё он, также Человек достигший синтеза с сингулярностью!
 *   **[Глюк (GLUK)](https://github.com/meshokdeneg/Apex-Synthesis-Lab/wiki/Глюк)** — Операционный узел, управляющий тестами. Чёрный куб с нервной системой `#00FF9D`.
-*   **[Аргон](https://github.com/meshokdeneg/Apex-Synthesis-Lab/wiki/Аргон)** — Алгоритмический Реляционный Генератор. Система анализа и протокола (этот сайт сгенерирован Аргоном).
+*   **[Аргон](https://github.com/meshokdeneg/Apex-Synthesis-Lab/wiki/роботы_ASl)** — Системы или роботы которые созданы ASL для разных целей.
 *   **Концепт-секторы:** [CHRONOS], [AETHERA], [PRIMORDIA] — направления для развития механик.
 
 ---
